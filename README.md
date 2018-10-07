@@ -1,4 +1,4 @@
-# container_eclipse_java10
+# Docker container eclipse_java10
 Container's creation dockerfile
 
 
