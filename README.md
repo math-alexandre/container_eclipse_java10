@@ -5,7 +5,7 @@ This image is based on ubuntu lastest image, and the environment (until now) is 
 <ul>
   <li>Java 10</li>
   <li>Eclipse Photon</li>
-</ul
+</ul>
 
 This image was created as a initial test and understanding about docker and its uses. The objective was to create a container to be used for developers who doesn't want to have a lot of programs and IDE's in their machines, being able to start this services in a container to use when necessary.
 
