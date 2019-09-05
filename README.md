@@ -15,3 +15,5 @@ In order to run eclipse (Photon), you must run:
 This command enables you to use the XServer of the host instead of the guest, allowing to run GUI Applications inside a container. 
 
 Access it on DockerHub : https://hub.docker.com/r/limamatheus/eclipse_java10/
+
+Created by: Matheus Lima
